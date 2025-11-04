@@ -1,7 +1,7 @@
 # Python Projects for Supply Chain & Analytics  
-**Jay Patel** | Houston, TX | [LinkedIn](https://linkedin.com/in/yourprofile) | Incoming MS Supply Chain @ UT Dallas  
+**Jay Patel** | Houston, TX | [LinkedIn](https://linkedin.com/in/yourprofile)   
 
-> Hands-on Python tools for **inventory optimization**, **demand forecasting**, and **logistics automation**. Built to showcase analytical skills for **supply chain internships** (Summer 2026).
+> Hands-on Python tools for **inventory optimization**, **demand forecasting**, and **logistics automation**. Built to showcase analytical skills for basic Python learning skills and  **supply chain internships** (Summer 2026).
 
 ---
 
