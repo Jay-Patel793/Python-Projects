@@ -18,7 +18,7 @@ Each project lives in its **own branch** with:
 | [`demand-forecast`](https://github.com/Jay-Patel793/Python-Projects/tree/demand-forecast) | Time Series Forecasting (ARIMA) | Predicts seasonal demand |
 | [`route-optimizer`](https://github.com/Jay-Patel793/Python-Projects/tree/route-optimizer) | Shortest Path (Dijkstra) | Optimizes delivery routes |
 | [`supplier-risk`](https://github.com/Jay-Patel793/Python-Projects/tree/supplier-risk) | Risk Scoring Dashboard | Evaluates supplier reliability |
-| [`Begining-Pyrhon`](https://github.com/Jay-Patel793/Python-Projects/tree/Begining-Python) | Intro to Python | Starting for the bacis to learn |
+| [`Beginning-Python`](https://github.com/Jay-Patel793/Python-Projects/tree/Beginning-Python) | Intro to Python | Starting for the bacis to learn |
 
 > 🔄 **Switch branches** using the dropdown above ⬆️
 
